@@ -1,0 +1,8 @@
+C:\Users\ACER\source\repos\Git\Git\bin\Debug\Git.exe.config
+C:\Users\ACER\source\repos\Git\Git\bin\Debug\Git.exe
+C:\Users\ACER\source\repos\Git\Git\bin\Debug\Git.pdb
+C:\Users\ACER\source\repos\Git\Git\obj\Debug\Git.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Git\Git\obj\Debug\Git.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\Git\Git\obj\Debug\Git.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Git\Git\obj\Debug\Git.exe
+C:\Users\ACER\source\repos\Git\Git\obj\Debug\Git.pdb
